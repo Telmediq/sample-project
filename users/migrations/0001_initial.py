@@ -5,7 +5,6 @@ from django.db import models, migrations
 import django.utils.timezone
 import django.core.validators
 
-
 class Migration(migrations.Migration):
 
     dependencies = [
